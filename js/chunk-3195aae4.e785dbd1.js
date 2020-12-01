@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3195aae4"],{"98b2":function(n,a,t){},"9aa0":function(n,a,t){"use strict";t("98b2")},eeda:function(n,a,t){"use strict";t.r(a);var e=function(){var n=this,a=n.$createElement,t=n._self._c||a;return t("main",[t("Markdown",{attrs:{path:"java/Minecraft"}})],1)},c=[],i=t("e6e0"),o={components:{Markdown:i["a"]},metaInfo:{title:"Minecraft Plugins"}},r=o,u=(t("9aa0"),t("2877")),s=Object(u["a"])(r,e,c,!1,null,null,null);a["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-3195aae4.e785dbd1.js.map
