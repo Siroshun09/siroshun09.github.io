@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/java/Library", {data:[{}],fetch:{},mutations:void 0});
