@@ -12,6 +12,14 @@
 
 
 /*!
+ * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+
+/*!
  * Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
@@ -25,13 +33,5 @@
 /*!
  * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-
-/*!
- * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
- *
- * Copyright (c) 2014-2017, Jon Schlinkert.
  * Released under the MIT License.
  */
