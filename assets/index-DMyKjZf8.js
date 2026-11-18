@@ -1,0 +1,1 @@
+var e=document.querySelectorAll(`main section[id]`);for(let t of document.querySelectorAll(`button[data-show]`))t.addEventListener(`click`,()=>{for(let n of e)n.hidden=n.id!==t.dataset.show});
